@@ -1,3 +1,5 @@
+<h1 align="left">💫 About Me:</h1>
+
 <h1 align="center">Hi 👋, I'm Anuj Baswal</h1>
 
 <h3 align="center"> AI/ML Engineer | Problem Solver | Python Developer</h3>
