@@ -29,7 +29,27 @@
 Execution over theory. Always.
 
 ---
+---
 
+## 🌐 Socials:
+
+<p align="center️center">
+  <a href="https://instagram.com/your_instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your_linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/your_github">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+
+---
 ## 🚀 Skills & Tools
 <p>
   <img src=["https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"](https://camo.githubusercontent.com/e782d276e040099579bf1b9832177309472c5fe5480fe634cd3296e5bf2c099c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7473)/>
@@ -68,27 +88,7 @@ Execution over theory. Always.
 
 👉 Featured projects niche **PIN** kiye gaye hain ⬇️
 
----
 
-## 🌐 Socials:
-
-<p align="center️center">
-  <a href="https://instagram.com/your_instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your_linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/your_github">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-
----
 
 <p align="center">
   ⭐ If you like my work, give a star & follow!
