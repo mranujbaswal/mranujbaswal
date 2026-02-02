@@ -1,31 +1,30 @@
 <h1 align="center">Hi 👋, I'm Anuj Baswal</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=DC143C&center=true&width=900&height=70&speed=70&lines=🏆+Smart+India+Hackathon+Winner+2K25+✌️">
-</p>
-
-
-
 <h3 align="center"> AI/ML Engineer | Problem Solver | Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&speed=80&center=true&width=700&height=45&lines=Data+Analyst+|+Data+Scientist+|+AI%2FML+Engineer;Anuj+Baswal+|+Computer+Science+Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&center=true&width=1000&height=55&speed=70&lines=AI%2FML+Engineer+|+Problem+Solver+|+Python+Developer;Data+Scientist+|+Data+Analyst+|+Data-Driven+Decision+Making;Generative+AI+|+Backend+Systems+|+System+Design">
 </p>
+
 
 
 ---
 
-🔭 Building LingoLive – real-time multilingual voice AI (Whisper, NLP, Voice Cloning)
-🌱 Learning Machine Learning
-    Deep Learning 
-    NLP & Speech AI
-👯 Open to AI/ML projects
-hackathons & open-source collaboration
-🤝 Exploring MLOps, AI system design & model deployment
-💬 Ask me about Python, Data Analytics, Machine Learning & projects
-⚡ I learn by building — execution over theory ⚡ Fun fact
+🧠 Smart India Hackathon Winner 2K25 🏆
 
-I learn faster by building real projects, not just watching tutorials — execution is my superpower ⚡
+🎙️ Building LingoLive — real-time multilingual Voice AI
+(Whisper · NLP · Speech AI · Voice Cloning)
+
+🔬 Strong focus on Machine Learning, Deep Learning & Applied AI
+
+⚙️ Exploring MLOps, model deployment, system design & scalability
+
+🤝 Open to AI/ML projects, hackathons & open-source collaboration
+
+💬 Ask me about Python, Data Analytics, ML workflows & real projects
+
+⚡ I don’t just learn concepts — I ship real systems.
+Execution over theory. Always.
 
 ---
 
