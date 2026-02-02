@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anuj Baswal</h1>
 
-<h align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&color=#FF0000&center=true&width=850&height=65&speed=50&lines=Smart+India+Hackathon+Winner+2K25+✌️🔥">
-</h>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=FF0000&center=true&width=900&height=70&speed=70&lines=🏆+Smart+India+Hackathon+Winner+2K25+✌️">
+</p>
+
 
 <h3 align="center"> AI/ML Engineer | Problem Solver | Python Developer</h3>
 
