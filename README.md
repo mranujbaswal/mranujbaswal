@@ -92,11 +92,12 @@ Execution over theory. Always.
 
 
 
-## 🔥 Random Dev Quote
+## 🧠 Thought of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"/>
 </p>
+
 
 
 
