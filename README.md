@@ -1,6 +1,10 @@
-<h1 align="center">💫 About Me:</h1>
-<h1 align="center">🚀 Anuj Baswal</h1>
+<h1 align="center">Hi 👋, I'm Anuj Baswal</h1>
 <h3 align="center"> AI/ML Engineer | Problem Solver | Python Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&color=00F7FF&center=true&width=850&height=65&speed=50&lines=Smart+India+Hackathon+Winner+2K25+✌️🔥">
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&speed=80&center=true&width=700&height=45&lines=Data+Analyst+|+Data+Scientist+|+AI%2FML+Engineer;Anuj+Baswal+|+Computer+Science+Engineer">
@@ -10,8 +14,11 @@
 ---
 
 🔭 Building LingoLive – real-time multilingual voice AI (Whisper, NLP, Voice Cloning)
-🌱 Learning Machine Learning, Deep Learning, NLP & Speech AI
-👯 Open to AI/ML projects, hackathons & open-source collaboration
+🌱 Learning Machine Learning
+    Deep Learning 
+    NLP & Speech AI
+👯 Open to AI/ML projects
+hackathons & open-source collaboration
 🤝 Exploring MLOps, AI system design & model deployment
 💬 Ask me about Python, Data Analytics, Machine Learning & projects
 ⚡ I learn by building — execution over theory ⚡ Fun fact
