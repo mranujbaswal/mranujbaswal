@@ -96,32 +96,7 @@ Execution over theory. Always.
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"/>
-</p>
-
-
-
-
-
-  
-
-
-
-## 📊 GitHub Stats
-<!-- 👇 yaha apna exact GitHub username daalna -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
-
-
-## 🔥 Projects
-- 🧠 Machine Learning Projects  
-- 📸 Computer Vision Applications  
-- 📊 Data Analysis Projects  
-- 🤖 AI-based Systems  
-
-👉 Featured projects niche **PIN** kiye gaye hain ⬇️
+</p
 
 
 
