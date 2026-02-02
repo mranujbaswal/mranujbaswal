@@ -29,7 +29,7 @@
 Execution over theory. Always.
 
 ---
----
+
 
 ## 🌐 Socials:
 
@@ -50,6 +50,16 @@ Execution over theory. Always.
 
 
 ---
+
+## 🤖🐍 AI Snake — Self-Playing Snake Game
+
+An intelligent Snake game where the **snake plays autonomously using AI logic**,  
+making real-time decisions to survive longer and score higher.
+
+```diff
++ AI Mode | Manual Mode | Real-Time Decision Making
+
+
 ## 🚀 Skills & Tools
 <p>
   <img src=["https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"](https://camo.githubusercontent.com/e782d276e040099579bf1b9832177309472c5fe5480fe634cd3296e5bf2c099c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7473)/>
