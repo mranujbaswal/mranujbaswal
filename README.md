@@ -10,7 +10,7 @@
 
 
 
----
+
 
 🧠 Smart India Hackathon Winner 2K25 🏆
 
@@ -28,7 +28,7 @@
 ⚡ I don’t just learn concepts — I ship real systems.
 Execution over theory. Always.
 
----
+
 
 
 ## 🌐 Socials:
@@ -49,7 +49,7 @@ Execution over theory. Always.
 </p>
 
 
----
+
 
 ## 💻 Tech Stack
 
@@ -59,7 +59,7 @@ Execution over theory. Always.
   <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,nestjs,python,aws,graphql,docker,kubernetes,nginx,git,github,googlecloud,linkedin,mongodb,mysql,postgres,pycharm,visualstudio,vscode,tensorflow,cpp,css&perline=11" />
 </p>
 
----
+
 ## 📝 Current Focus
 
 <table>
@@ -90,7 +90,7 @@ Execution over theory. Always.
 </tr>
 </table>
 
----
+
 ## 🚀 Skills & Tools
 <p>
   <img src=["https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"](https://camo.githubusercontent.com/e782d276e040099579bf1b9832177309472c5fe5480fe634cd3296e5bf2c099c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7473)/>
@@ -102,7 +102,7 @@ Execution over theory. Always.
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
 </p>
 
----
+
 
 ## 📚 Currently Learning
 - Advanced Machine Learning  
@@ -119,7 +119,7 @@ Execution over theory. Always.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
----
+
 
 ## 🔥 Projects
 - 🧠 Machine Learning Projects  
