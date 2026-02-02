@@ -2,8 +2,9 @@
 <h3 align="center">AI / ML Enthusiast | Computer Vision Learner | Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Engineer+in+Progress;Computer+Vision+Enthusiast;Python+Developer;Building+Real+World+Projects&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&speed=80&center=true&width=700&height=45&lines=Data+Analyst+|+Data+Scientist+|+AI%2FML+Engineer;Anuj+Baswal+|+Computer+Science+Engineer">
 </p>
+
 
 ---
 
