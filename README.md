@@ -91,26 +91,19 @@ Execution over theory. Always.
 </table>
 
 
-## 🚀 Skills & Tools
-<p>
-  <img src=["https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"](https://camo.githubusercontent.com/e782d276e040099579bf1b9832177309472c5fe5480fe634cd3296e5bf2c099c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7473)/>
-  <img src="https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+
+## 🔥 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
 
 
-## 📚 Currently Learning
-- Advanced Machine Learning  
-- Deep Learning Models  
-- Computer Vision (OpenCV)  
-- Model Deployment  
 
----
+  
+
+
 
 ## 📊 GitHub Stats
 <!-- 👇 yaha apna exact GitHub username daalna -->
