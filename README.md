@@ -60,7 +60,37 @@ Execution over theory. Always.
 </p>
 
 ---
+## 📝 Current Focus
 
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/><br/>
+  <b>Data Analysis</b><br/>
+  Insights • Visualization • SQL
+</td>
+
+<td align="center" width="25%">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120"/><br/>
+  <b>Machine Learning</b><br/>
+  Models • Evaluation • Pipelines
+</td>
+
+<td align="center" width="25%">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/><br/>
+  <b>AI & NLP</b><br/>
+  Speech • NLP • Generative AI
+</td>
+
+<td align="center" width="25%">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="120"/><br/>
+  <b>DSA & System Design</b><br/>
+  Scalable AI Systems
+</td>
+</tr>
+</table>
+
+---
 ## 🚀 Skills & Tools
 <p>
   <img src=["https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"](https://camo.githubusercontent.com/e782d276e040099579bf1b9832177309472c5fe5480fe634cd3296e5bf2c099c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7473)/>
