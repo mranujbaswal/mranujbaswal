@@ -51,14 +51,15 @@ Execution over theory. Always.
 
 ---
 
-## 🤖🐍 AI Snake — Self-Playing Snake Game
+## 💻 Tech Stack
 
-An intelligent Snake game where the **snake plays autonomously using AI logic**,  
-making real-time decisions to survive longer and score higher.
+<h2 align="center">Hey 👋 What's Up?</h2>
 
-```diff
-+ AI Mode | Manual Mode | Real-Time Decision Making
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,nestjs,python,aws,graphql,docker,kubernetes,nginx,git,github,googlecloud,linkedin,mongodb,mysql,postgres,pycharm,visualstudio,vscode,tensorflow,cpp,css&perline=11" />
+</p>
 
+---
 
 ## 🚀 Skills & Tools
 <p>
